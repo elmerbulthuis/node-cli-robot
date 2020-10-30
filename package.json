@@ -1,0 +1,19 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "For fun and learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy H",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.6",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
